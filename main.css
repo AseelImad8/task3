@@ -1,0 +1,14 @@
+.services{
+    text-align: center;
+    
+}
+p{
+    color:gray;
+}
+.service{
+    display: inline-block;
+    width: 20%;
+}
+i{
+    color: peru;
+}
